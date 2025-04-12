@@ -45,7 +45,7 @@ Landing page moderna com **HTML + CSS + JS**
 
 ## 📬 Contato
 
-📧 Email: (mailto:carlosjoaquim6790@gmail.com)  
+📧 Email: carlosjoaquim6790@gmail.com  
 💻 Portfólio: *em breve...*
 
 ---
