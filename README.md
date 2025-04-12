@@ -1,6 +1,5 @@
 # 👨‍💻 Carlos Joaquim – Desenvolvedor Front-End
 
-![Banner](https://user-images.githubusercontent.com/105131652/186226747-206a5cb6-0390-445f-9ab7-aaa88827750e.jpg)
 
 ---
 
@@ -30,11 +29,8 @@ Olá! Sou **Carlos Joaquim**, desenvolvedor front-end com paixão por criar inte
 
 ## 💼 Projetos em Destaque
 
-### 🖥️ Dashboard Interativo
-Projeto de painel interativo com **React + Chart.js**  
-![Dashboard](https://github.com/WV-Wesley-Victor/Projeto-Dashboard/raw/main/screenshot.png)
 
-### 🖥️ Portfólio Pessoal
+### 🖥️ Portfólio Conexão Visual
 Landing page moderna com **HTML + CSS + JS**  
 ![Portfolio](https://github.com/sushantgb/sushantgb/raw/main/portfolio.png)
 
