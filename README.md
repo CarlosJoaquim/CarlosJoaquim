@@ -1,4 +1,4 @@
-# 👨‍💻 Carlos Joaquim – Front-End Developer
+# ✨Carlos Joaquim – Front-End Developer✨
 
 ---
 
