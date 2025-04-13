@@ -43,7 +43,7 @@ Uma landing page moderna e responsiva construída com **HTML**, **CSS** e **Java
 O **CODE WARRIOR** é mais do que uma simples plataforma - é seu mentor digital no mundo do **desenvolvimento web!**  
 🔗 *Disponível em breve no meu GitHub!*
 
-🔗![Portfolio](https://carlosjoaquim.github.io/CODE-WARRIOR/)
+![Portfolio](https://carlosjoaquim.github.io/CODE-WARRIOR/)
 ---
 
 ## 🌐 Onde me encontrar
